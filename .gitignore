@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Envs
+.venv/
+env/
+venv/
+
+# Secrets
+.env
+
+# OS cruft
+.DS_Store
+
+# Data
+ncaa-analytics/data_raw/
+ncaa-analytics/data_intermediate/
+ncaa-analytics/db/*.db
